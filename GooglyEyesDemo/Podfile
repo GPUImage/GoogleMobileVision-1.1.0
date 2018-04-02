@@ -1,0 +1,4 @@
+target "GooglyEyes" do
+  pod 'GoogleMobileVision/FaceDetector', '>= 1.1.0'
+  pod 'GoogleMobileVision/MVDataOutput'
+end
